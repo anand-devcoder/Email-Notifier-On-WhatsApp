@@ -1,4 +1,4 @@
-![photo_2025-05-31_12-24-53](https://github.com/user-attachments/assets/88739373-d9cc-45c2-8fef-178c257e4eca)
+![Email Notification On WhatsApp](https://github.com/user-attachments/assets/3d206add-7ce4-442f-9eb8-63b71fe1695c)<br><br>
 📧🔔 Project: Email Notification on WhatsApp<br><br>
 ✅ Overview:<br>
 This project automates the process of forwarding incoming email notifications directly to WhatsApp in real-time. It is built using Python, IMAP for email reading, and Twilio’s WhatsApp API to send messages. The goal is to keep users instantly informed about important emails without constantly checking their inbox.
